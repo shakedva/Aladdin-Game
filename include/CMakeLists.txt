@@ -1,0 +1,1 @@
+﻿target_include_directories (oop2_project_shaked_v_noy_t_rina_s_salomon_d PRIVATE ${CMAKE_CURRENT_LIST_DIR})
